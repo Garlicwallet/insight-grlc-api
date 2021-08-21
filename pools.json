@@ -165,4 +165,16 @@
 	"searchStrings": [
 		"/PowerPool/"
 	]	
+}, {
+	"poolName": "zpool",
+	"url": "https://zpool.ca/",
+	"searchStrings": [
+		"zpool.ca"
+	]
+}, {
+	"poolName": "Zergpool",
+	"url": "https://zergpool.com/",
+	"searchStrings": [
+		"zergpool.com"
+	]
 }]
